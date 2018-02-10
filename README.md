@@ -18,7 +18,7 @@ This project is a compatibility-based "FriendFinder" application. This full-stac
 * Terminal/Gitbash
 
 ### Live App
-Click [here to launch the application in your browser].
+Click [here to launch the application in your browser]. https://shrouded-atoll-74371.herokuapp.com/
 
 ## Installation Instructions
 
