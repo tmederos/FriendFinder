@@ -2,13 +2,23 @@
 
 ### Overview
 
-This project is a compatibility-based "FriendFinder" application. This full-stack app takes in results from users' surveys, then compares their answers with those from other users. The app then displays the name and picture of the user with the best overall match.The app is deployed to Heroku.
+This project is a compatibility-based "FriendFinder" application. This full-stack app takes in results from users' surveys, then compares their answers with those from other users. The app then displays the name and picture of the user with the best overall match. The app is deployed to Heroku.
 
-Technologies used: HTML/CSS, Bootstrap, Javascript, Jquery, Node.js and Express.js.
+## Technologies used
+- HTML/CSS, Javascript, Jquery
+- Bootstrap (http://getbootstrap.com)
+- Font Awesome (https://fontawesome.com/)
+- Node.js (https://nodejs.org/en/)
+- Express.js (https://expressjs.com/)
+- body-parser NPM Package (https://www.npmjs.com/package/body-parser-json)
+
+## Built With
+
+* Visual Sudio and Sublime Text - Text Editor
+* Terminal/Gitbash
 
 ### Live App
 Click [here to launch the application in your browser].
-
 
 ## Installation Instructions
 
@@ -23,15 +33,19 @@ Click [here to launch the application in your browser].
 
 1. The home page has a button to access the survey page.
 
-![Home-Page](/app/public/assets/images/home-page.png)
+![Home-Page](https://github.com/tmederos/FriendFinder/blob/master/app/public/images/home-page.png)
 
 2. The Survey page has 10 questions and a submit button. The user must enter
 their name and a link to a picture.
 
-![Survey-page](/app/public/assets/images/survey-page.png)
+![Survey-page](https://github.com/tmederos/FriendFinder/blob/master/app/public/images/survey-page.png)
 
 3. When the submit button is pressed the user will be matched to their most
 compatible friend. The name and picture of the match will be displayed as
 a modal pop-up.
 
-![Best-match](/app/public/assets/images/best-match.png)
+![Best-match](https://github.com/tmederos/FriendFinder/blob/master/app/public/images/best-match.png)
+
+## Author
+
+* **Trish Mederos**
