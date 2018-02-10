@@ -33,7 +33,7 @@ Click [here to launch the application in your browser].
 
 1. The home page has a button to access the survey page.
 
-![Home-Page](/app/public/assets/images/home-page.png)
+![Home-Page](https://github.com/tmederos/FriendFinder/blob/master/app/public/images/home-page.png)
 
 2. The Survey page has 10 questions and a submit button. The user must enter
 their name and a link to a picture.
