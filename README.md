@@ -44,7 +44,7 @@ their name and a link to a picture.
 compatible friend. The name and picture of the match will be displayed as
 a modal pop-up.
 
-![Best-match](/app/public/assets/images/best-match.png)
+![Best-match](https://github.com/tmederos/FriendFinder/blob/master/app/public/images/best-match.png)
 
 ## Author
 
