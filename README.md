@@ -38,7 +38,7 @@ Click [here to launch the application in your browser].
 2. The Survey page has 10 questions and a submit button. The user must enter
 their name and a link to a picture.
 
-![Survey-page](/app/public/assets/images/survey-page.png)
+![Survey-page](https://github.com/tmederos/FriendFinder/blob/master/app/public/images/survey-page.png)
 
 3. When the submit button is pressed the user will be matched to their most
 compatible friend. The name and picture of the match will be displayed as
