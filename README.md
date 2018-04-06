@@ -4,19 +4,6 @@
 
 This project is a compatibility-based "FriendFinder" application. This full-stack app takes in results from users' surveys, then compares their answers with those from other users. The app then displays the name and picture of the user with the best overall match. The app is deployed to Heroku.
 
-## Technologies used
-- HTML/CSS, Javascript, Jquery
-- Bootstrap (http://getbootstrap.com)
-- Font Awesome (https://fontawesome.com/)
-- Node.js (https://nodejs.org/en/)
-- Express.js (https://expressjs.com/)
-- body-parser NPM Package (https://www.npmjs.com/package/body-parser-json)
-
-## Built With
-
-* Visual Sudio and Sublime Text - Text Editor
-* Terminal/Gitbash
-
 ### Live App
 Click [here to launch the application in your browser]. https://shrouded-atoll-74371.herokuapp.com/
 
@@ -45,6 +32,19 @@ compatible friend. The name and picture of the match will be displayed as
 a modal pop-up.
 
 ![Best-match](https://github.com/tmederos/FriendFinder/blob/master/app/public/images/best-match.png)
+
+## Technologies used
+- HTML/CSS, Javascript, Jquery
+- Bootstrap (http://getbootstrap.com)
+- Font Awesome (https://fontawesome.com/)
+- Node.js (https://nodejs.org/en/)
+- Express.js (https://expressjs.com/)
+- body-parser NPM Package (https://www.npmjs.com/package/body-parser-json)
+
+## Built With
+
+* Visual Sudio and Sublime Text - Text Editor
+* Terminal/Gitbash
 
 ## Author
 
